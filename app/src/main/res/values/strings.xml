@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebServicesP12</string>
+    <string name="dialog_message">Proceed to upload to Firestore?</string>
+    <string name="dialog_title">Upload to Firestore</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
